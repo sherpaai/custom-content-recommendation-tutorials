@@ -4,4 +4,7 @@ This repository contains tutorials explaining the functionality of [Sherpa.ai's 
 
 - Building a Recommender System.
 - Loading Massive Data.
-- Making recommendations.
+- Training a Model.
+- Making Recommendations.
+
+**Note**: you will need a [Sherpa Developers](https://developers.sherpa.ai) account to go through the tutorial.
