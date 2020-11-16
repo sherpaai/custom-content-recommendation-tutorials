@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sherpaai/custom-content-recommendation-tutorials/master?filepath=Sherpa.ai%20-%20Custom%20Content%20Recommendation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sherpaai/custom-content-recommendation-tutorials/master?filepath=Sherpa.ai%20Custom%20Content%20Recommendation.ipynb)
 
 # Custom Content Recommendation Tutorials
 
